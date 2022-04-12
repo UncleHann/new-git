@@ -13,4 +13,4 @@
 
 [경일대학교](http://www.kiu.ac.kr)
 
-![다람쥐](./images/다운로드)
+![다람쥐](./images/다운로드.png)
